@@ -1,0 +1,22 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdoaligomaa/typeScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdoaligomaa/typeScript/issues"
+  },
+  "homepage": "https://github.com/abdoaligomaa/typeScript#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
